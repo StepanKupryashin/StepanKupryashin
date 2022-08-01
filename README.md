@@ -1,7 +1,7 @@
 # Hello, world!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StepanKupryashin&theme=material-palenight&show_icons=true)
 ## Programming languages ​​I use:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanKupryashin&theme=material-palenight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanKupryashin&theme=material-palenight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
